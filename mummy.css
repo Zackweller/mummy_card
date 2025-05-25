@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(238, 238, 238);
+  font-size: 18px;
+}
+
+
+
+.card{
+  color: blue;
+  width: 45%;
+  margin-inline: auto;
+  display: flex;
+  padding: 25px;
+  column-gap: 25px;
+  background-color: lightblue;
+ 
+}
+
+img{
+  width: 20%;
+}
+
+.sign{
+  display: block;
+  font-weight: 900;
+  margin-top: 10px;
+}
